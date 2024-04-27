@@ -101,6 +101,13 @@ and click on the connect icon
 ### output video and screen shots of pick and place 
 
 
+![image](https://github.com/rajpon/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161028709/65bc05af-c8f4-4bad-8314-4240fa2f13af)
+![image](https://github.com/rajpon/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161028709/d67a392f-6a72-463b-b878-b329125b88ca)
+![image](https://github.com/rajpon/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161028709/46c61ddd-dd51-4eb5-89a6-63020a43461a)
+![image](https://github.com/rajpon/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161028709/e5521aed-13f5-41ca-b5f3-97be7425956d)
+![image](https://github.com/rajpon/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161028709/f6251839-8247-4908-9def-18cd5ff958b0)
+![image](https://github.com/rajpon/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161028709/6c6c76d8-5c48-4d43-9156-54506b40b099)
+![image](https://github.com/rajpon/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161028709/1214bf2a-bff5-4378-9744-35d5858636d9)
 
 
 
@@ -108,7 +115,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+Hence Pick and place of objects using industrial manipulator is executed successfully.
 
 
 
